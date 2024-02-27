@@ -1,0 +1,3 @@
+Windows Download Link>> https://drive.google.com/file/d/1eHzEXonAq7uswK-2LR7Wf6fagX5qo97A/view
+MacOS> Xcode
+Goto Build Phases>Link Binary with Libraries then add this two framework. Press Command+B to Build >>{Glut.framework, OpenGl.Framework}
